@@ -1,6 +1,6 @@
 from collections import defaultdict, Counter
 from datetime import datetime
-
+#created a list
 transactions = [
     {'customer': 'John Doe', 'amount': 120, 'date': '2022-01-01'},
     {'customer': 'John Doe', 'amount': 50, 'date': '2022-01-05'},
